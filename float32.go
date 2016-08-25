@@ -1,4 +1,4 @@
-package main
+package hyphen
 
 // HasFloat32 checks if a Float32 slice has a given Float32
 func HasFloat32(items []float32, value float32) bool {

@@ -1,4 +1,4 @@
-package main
+package hyphen
 
 // HasInt32 checks if an int32 slice has a given int
 func HasInt32(items []int, value int) bool {

@@ -1,4 +1,4 @@
-package main
+package hyphen
 
 // HasBool checks if a bool slice has a given bool
 func HasBool(items []bool, value bool) bool {

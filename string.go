@@ -1,4 +1,4 @@
-package main
+package hyphen
 
 // HasString checks if a string slice has a given string
 func HasString(items []string, value string) bool {

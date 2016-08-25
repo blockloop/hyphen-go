@@ -1,4 +1,4 @@
-package main
+package hyphen
 
 // HasFloat64 checks if a Float64 slice has a given Float64
 func HasFloat64(items []float64, value float64) bool {
